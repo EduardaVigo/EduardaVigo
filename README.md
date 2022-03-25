@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EduardaVigo
 - 👀 I’m interested in music and books :)
-- 🌱 I’m currently learning about JavaSricpt and Phyton <3
+- 🌱 I’m currently learning about Java and Phyton <3
 
 <!---
 EduardaVigo/EduardaVigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
